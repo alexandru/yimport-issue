@@ -1,4 +1,4 @@
-# -Yimport issue
+# -Yimport issue in IntelliJ IDEA
 
 Scala 2.13 now supports `-Yimport` for customizing the default imports, see:
 
